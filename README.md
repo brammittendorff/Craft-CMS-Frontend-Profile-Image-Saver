@@ -1,2 +1,11 @@
-# Craft-CMS-Frontend-Profile-Image-Saver
-Craft CMS Frontend Profile Image Saver
+# Craft CMS Frontend Profile Image Saver
+You need to use a REST client and create a post to your plugin.
+
+call to url:
+/actions/aviaryFrontend/image/saveImage
+
+payload:
+url=http%3A%2F%2Florempixel.com%2F400%2F200%2F
+
+after url= you can enter a url:
+url=<YOUR IMAGE URL>
