@@ -55,9 +55,8 @@ class AviaryFrontend_ImageService extends BaseApplicationComponent
     }
 
     /**
-     * [deleteTempFiles description]
-     * @param  [type] $fileName [description]
-     * @return [type]           [description]
+     * Deletes temp files
+     * @param  [string] $fileName [A filename to delete]
      */
     private function deleteTempFiles($fileName)
     {
