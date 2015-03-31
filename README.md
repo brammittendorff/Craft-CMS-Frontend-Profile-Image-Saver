@@ -13,4 +13,4 @@ after url= you can enter a image url:
 
 url=[IMAGE URL]
 
-and it will be automaticly saved as your loggedin userprofile image
+and it will be automaticly saved as your logged in userprofile image
