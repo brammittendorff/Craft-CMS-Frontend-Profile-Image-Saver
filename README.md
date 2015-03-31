@@ -1,5 +1,5 @@
 # Craft CMS Frontend Profile Image Saver
-You need to use a REST client and create a post to your plugin. (remember posting will only work in dev mode, because if it is live you will need ajax calls)
+You need to use a REST client and create a post to your plugin for testing. (remember posting will only work in dev mode, because if it is live you will need ajax calls)
 
 call to url:
 
